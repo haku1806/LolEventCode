@@ -6,7 +6,7 @@ import match
 reg = r"LOL[A-Z0-9]{10}"
 post = input("post: ")
 access_token = ""
-# access_token = input("token: ")
+access_token = input("token: ")
 
 def isAdmin():
     try:

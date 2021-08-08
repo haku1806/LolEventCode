@@ -1,0 +1,5 @@
+requests
+pyautoit
+opencv-python
+numpy
+imutils
